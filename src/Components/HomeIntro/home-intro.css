@@ -1,0 +1,28 @@
+.intro-home-container {
+  width: 35%;
+}
+
+.intro-home-title {
+  color: #403F63;
+  font-size: 56px;
+  margin-bottom: 10px;
+}
+
+.intro-home-desc {
+  font-size: 24px;
+  font-weight: 200;
+}
+
+.email-link {
+  color: #000;
+  font-size: 24px;
+  /* text-decoration: slategray; */
+  border-bottom: 1px solid #ff60b4;
+  margin: 0;
+  margin-left: 5px;
+  margin-right: 3px;  
+}
+
+.email-link:hover{
+  color: #ff60b4;
+}
